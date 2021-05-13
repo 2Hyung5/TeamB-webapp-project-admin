@@ -28,3 +28,15 @@
 관리자가 회원, 과정 등에 대하여 CRUD 기능을 시행할 수 있는 '<b>어드민</b> 페이지' 개발, <br>
 크게 두 부분으로 나누어 진행하였습니다.
 
+* '어드민' 레포지토리<a href="https://github.com/choyinoom/ktdsuniversity17_webapp_admin"> 바로가기</a> 
+
+## Contributors
+  <a href="https://github.com/2Hyung5"><img src="https://avatars.githubusercontent.com/u/81209001?s=96&amp;v=4" width="48" height="48" alt="@2Hyung5"></a>
+  <a href="https://github.com/choyinoom"><img src="https://avatars.githubusercontent.com/u/42328721?s=96&amp;v=4" width="48" height="48"  alt="@choyinoom"></a>
+  <a href="https://github.com/gudtjr942"><img src="https://avatars.githubusercontent.com/u/81209592?s=96&amp;v=4" width="48" height="48" alt="@gudtjr942"></a>
+  <a href="https://github.com/hwangzunan"><img src="https://avatars.githubusercontent.com/u/76806709?s=96&amp;v=4" width="48" height="48" alt="@hwangzunan"></a>
+  <a href="https://github.com/kyeongjun24"><img src="https://avatars.githubusercontent.com/u/81208986?s=96&amp;v=4" width="48" height="48" alt="@kyeongjun24"></a>
+  <a href="https://github.com/Lee-YunYeul"><img src="https://avatars.githubusercontent.com/u/77491758?s=96&amp;v=4" width="48" height="48" alt="@Lee-YunYeul"></a>
+  <a href="https://github.com/passood"><img src="https://avatars.githubusercontent.com/u/72066143?s=96&amp;v=4" width="48" height="48" alt="@passood"></a>
+  <a href="https://github.com/suran95"><img src="https://avatars.githubusercontent.com/u/70196962?s=96&amp;v=4" width="48" height="48" alt="@suran95"></a>
+  <a href="https://github.com/seonghyun-ee"><img src="https://avatars.githubusercontent.com/u/71627309?s=96&amp;v=4" width="48" height="48" alt="@seonghyun-ee"></a>
