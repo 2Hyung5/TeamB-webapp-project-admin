@@ -8,9 +8,6 @@
 <p align="center">
   <img src=https://user-images.githubusercontent.com/42328721/116964271-133aac80-ace6-11eb-95d9-5b906f4a2187.png
        alt="admin-page", width="700px"/>
-  <br>
-  <a href="http://52.204.73.239:8094/edu"><strong>리뉴얼한 페이지 바로가기</strong></a>
-  <br>
 </p>
 
 <p align="center">
